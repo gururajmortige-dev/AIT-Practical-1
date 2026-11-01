@@ -1,1 +1,1 @@
-# AIT-Practical-1
+# AIT-Practicals
